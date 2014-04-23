@@ -1,0 +1,11 @@
+Model checking is a family technique of automated verification of dynamic systems. It is part of algorithmically verificat
+e if a given model, the system itself or a system abstraction match a requirement.
+
+We can distinguate two aspects of model checking :
+
+Demonstrate a certain class property or logical belongs a certain class complexity
+
+Search efficient algorithms on interesting cases, to implement them and to apply them to real problems.
+
+Model checking exhaustively analyze system evolution on its execution (running time). By example, to demonstrate the no 
+running time errors we could test the no error statement accessible on the system.
