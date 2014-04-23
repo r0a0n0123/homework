@@ -1,0 +1,23 @@
+Control-flow behavioural testing applies to almost all software and is effective for most software. It is a 
+fundamentaltechnique. Its applicability is mostly to relatively small programs or segments of larger programs.
+
+Control Flow Testing is a form of White-box testing. It is a testing technique which bases its tests on the structure
+of the code. "Coverage" refers to the amount of the program which has been tested. Normally, 100% coverage is the 
+target or criterion. 100% coverage is essential in safety critical systems.
+
+Statement Coverage 
+
+Statement coverage is the percentage of the total number of reachable statements in the code that are executed (and
+therefore tested). Anything less than 100% statement coverage means that not all lines of code have been executed.
+
+Branch Coverage 
+
+Branches occur when there are conditional statements. The start of any program is also viewed as a branch. This means 
+that, by definition, every program has at least one branch which is to be tested. 100% branch coverage means that every
+arc (flow) in the Control Flow Diagram (CFG) is traversed.
+
+Path Coverage 
+
+A path is a series of arcs (flows) from a start node to a specified end node. To obtain 100% path coverage, every 
+unique path must be tested. Path coverage is more thorough than branch coverage. It can be hard / impossible to obtain 
+100% path coverage in some cases because the number of paths can be near to infinite when looping is involved.
