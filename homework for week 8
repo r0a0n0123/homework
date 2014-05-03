@@ -1,1 +1,53 @@
 What ‘quality’ actually means will depend on the outputs the project is creating, but is generally related to:
+Fitness for purpose
+Adherence to relevant standards and specifications
+Use of best practice methods and techniques for development
+‘Fitness for purpose’ will vary with the project output. For example, if you are developing software to enable users to 
+perform a task, the software should enable them to perform it. However, it can also relate to how well it allows them to 
+perform a task and factors like usability. If you’re developing a pilot to demonstrate feasibility, it should obviously 
+demonstrate feasibility, but scalability and reliability might be other factors to consider in fitness for purpose.
+
+Quality planning
+1) Quality expectations  The programme defines the standards and level of quality expected from the project in the 
+funding call
+2) Acceptance criteria  The programme defines acceptance criteria for major project outputs based upon the quality 
+expectations set in the funding call
+3) Quality plan  The project develops a quality assurance plan showing how it will achieve the quality expected and the 
+quality assurance processes it will put in place.
+4) Implementation  During the project, the outputs are developed in line with the quality plan.
+5) Acceptance of outputs  The project submits its outputs, supported by evidence that they meet the quality expectations
+. Outputs are assessed against the acceptance criteria and accepted (or rejected) by the programme.
+
+Acceptance criteria will relate to what you must do to demonstrate that the expected quality has been achieved. For 
+example, the programme manager might ask for a set of interoperability test results to demonstrate that interoperability standards have been adhered to, or they might ask for a report from an external evaluator that assesses fitness for 
+purpose.
+
+Project QA plan
+The project plan template includes a table in section 3.2 to develop the quality assurance plan. As Jisc innovation 
+programmes result in a wide range of outputs, the programme manager may adapt the template to suit the type of outputs 
+being developed.
+
+Whatever the outputs, the idea is to think through how you will achieve the quality envisaged. This will involve:
+
+quality assurance – putting in place the policies, practices, and procedures for achieving best practice and complying 
+with standards 
+quality control - checking that you’ve done what you expected to do (e.g. by testing). 
+Think through the methods you need to put in place, the testing you must do, and the evidence that will demonstrate 
+you’ve achieved the quality envisaged.  
+
+QA methods
+Define the quality assurance methods/techniques that will be used or reference established ones. For example, what 
+processes will you put in place to ensure that software complies with Jisc’s open source policy, the best practice 
+outlined in Section X, and relevant standards.
+
+Evidence of compliance
+Indicate the evidence that will demonstrate that you have achieved the quality envisaged. For example, this may involve 
+test results, benchmarking, or successful completion of external peer review.
+
+Quality responsibilities
+quality responsibilities might be:
+Project Manager  Change control, quality of project documentation
+Lead programmer  System testing quality, configuration management
+Programmer  Unit testing quality
+Academic advisor  Usability quality.
+
